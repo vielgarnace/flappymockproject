@@ -1,0 +1,9 @@
+[HTML Flappy]
+By Garnace Viel
+In compliance to an Activity/Assignment in:
+"Application Development and Emerging Technologies"
+
+V.1:
+Codes grabbed from W3Schools
+V.2:
+Added personal alert box
